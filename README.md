@@ -125,7 +125,8 @@
 <br> <img src="png/HB10.png" alt="《农历蛇年系列》" width="260" height="auto">
 - ✅ `《数字货币交易所》`系列
 <br> <img src="png/HB11.png" alt="《农历蛇年系列》" width="260" height="auto">
-
+- ✅ `JCB`卡
+<br> <img src="png/HB12.png" alt="JCB卡" width="260" height="auto">
 
 <br><br><br>
 # 其他文件夹

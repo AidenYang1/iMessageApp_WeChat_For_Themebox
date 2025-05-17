@@ -1,4 +1,4 @@
-# [（更）开源版本体已归档于v1.2.3。后续更新请参照《主题适配经验指南》自行更新适配。卡组更新继续。](https://www.imtheme.site/themeDiy)
+# [（更）开源版本体已归档于v1.2.3。后续更新请参照《主题适配经验指南》自行更新适配。](https://www.imtheme.site/themeDiy)
 
 <br>
   
